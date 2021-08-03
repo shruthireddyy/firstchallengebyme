@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://shruthireddyy.github.io/firstchallengebyme/(https://your-solution-url.com)
+- Live Site URL: https://shruthireddyy.github.io/firstchallengebyme/(https://your-live-site-url.com)
 
 ## My process
 
@@ -56,5 +56,5 @@ I would Like to improve and develop upon CSS positioning in the future as I face
 
 ## Author
 
-- Website - [Shruthi Reddy Kolan](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/shruthireddyy)
+- Website - [https://shruthireddyy.github.io/firstchallengebyme](https://www.your-site.com)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/shruthireddyy](https://www.frontendmentor.io/profile/shruthireddyy)
