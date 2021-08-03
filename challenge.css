@@ -1,0 +1,83 @@
+
+.firstline
+{
+    color:white;
+    font-family: 'Rubik', sans-serif;
+}
+.firstbox
+{
+    background-color:#0F044C;
+    width:1000px;
+    height: 400px;
+    display:block;
+    margin:0 auto;
+    padding:50px;
+    
+    
+}
+.imageforcard{
+    float:right;
+    width:400px;
+    opacity: 0.2;
+    
+}
+.secondbox{
+background-color: #325288;
+width:800px;
+height:350px;
+display:block;
+margin: 30px auto 30px auto; ;
+
+}
+.firstclass{
+    font-size: large;
+}
+.text{
+    padding:50px;
+}
+.insights{
+    color:blueviolet;
+}
+.bigbox{
+    display:block;
+    margin:0,auto;
+    padding:5%;
+}
+.text2{
+    color:slategray;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: small;
+    line-height: 1.4;
+    width:40%;
+    font-weight:bold;
+}
+.smallbox1{
+    padding:5px;
+    line-height: 0.2;
+    border-spacing: 1px;
+    margin-right:10px;
+}
+.smallbox2{
+    
+    position: relative;
+    left: 80px;
+    bottom:45px;
+    margin-left:40px;
+    
+}
+.smallbox3{
+    position: relative;
+    left: 200px;
+    bottom:90px;
+    margin-left:50px;
+
+}
+.headings{
+    color:white;
+    font-family: 'Rubik', sans-serif;
+}
+.stuff{
+    color:slategray;
+    font-size: small;
+    font-weight: bold;
+}
