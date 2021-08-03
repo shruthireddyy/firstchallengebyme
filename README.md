@@ -28,9 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://shruthireddyy.github.io/firstchallengebyme/(https://your-solution-url.com)
-- Live Site URL: https://shruthireddyy.github.io/firstchallengebyme/(https://your-live-site-url.com)
-
+- Solution URL: https://shruthireddyy.github.io/firstchallengebyme/
+- Live Site URL: https://shruthireddyy.github.io/firstchallengebyme/
 ## My process
 
 ### Built with
